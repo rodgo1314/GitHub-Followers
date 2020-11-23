@@ -20,6 +20,11 @@ The following functionality is completed:
 
 <img src='http://g.recordit.co/Wo37IsFiZN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/PHi94ty0ob.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
 
 
 
